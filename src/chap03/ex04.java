@@ -1,5 +1,7 @@
 package chap03;
 
+//이진 검색
+
 import java.util.Scanner;
 
 public class ex04 {
