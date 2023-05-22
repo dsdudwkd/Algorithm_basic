@@ -25,5 +25,7 @@ public class ex06 {
 		int n = scan.nextInt();
 		
 		move(n, 1, 3); //1번 기둥의 n개의 원반을 3번 기둥으로 옮김 
+		
+		
 	}
 }
